@@ -50,7 +50,7 @@ def test_task_three():
 
     # Outputs
     output_array = [
-        'Grog has reached Level 4!'
+        'Tara has reached Level 6!'
     ]
 
     prepare_and_assert(input_array, output_array)
